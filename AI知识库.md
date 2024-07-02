@@ -2055,3 +2055,37 @@ What is the total token supply allocated to Edge devices?
 正确答案2️⃣ veATH
 3️⃣ stATH
 4️⃣ ETH
+
+
+Stake tokens and earn rewards.
+FAQ
+1. How to stake?
+To stake, wrap your ATH into veATH and stATH, stake your veATH for staking rewards. Usecases for stATH, will be released soon.
+
+2. What is the minimum/maximum staking period?
+Minimum period: 1 week.
+Maximum period: 4 years.
+The duration of staking must be in whole weeks.
+
+3. When does staking start and end?
+Staking starts after you click the stake button and sign the transaction. The week counts from every Thursday at 00:00:00 UTC and ends the following Wednesday at 23:59:59 UTC. For example, if Alice stakes on Tuesday for 1 week, her staking will end the following Wednesday at 23:59:59 UTC (total 8+ days).
+
+4. When can I end my stake and withdraw my staked tokens?
+You can withdraw your staked tokens only after the staking period ends.
+
+5. How are rewards distributed?
+Rewards are distributed among users weekly, based on the amount of veATH locked, and the duration of veATH locked. This is how “APR” is calculated. Users will also earn additional tokens from Aethir ecosystem partners, calculated in the same way as ATH rewards.
+
+6. When can I claim rewards?
+Participants can claim rewards every Thursday, one week after staking begins. For example, if Bob stakes his tokens on Wednesday, July 3, 2024, he will be able to claim rewards starting from Thursday, July 11, 2024.
+
+7. How do the amount and duration of staking affect rewards?
+The amount and duration of staking determine each user's reward power each week. The higher the reward power, the more rewards the user is entitled to. The more a user stakes and the longer the staking period, the higher the user's reward power.
+
+8. An example of how rewards are calculated.
+Suppose Alice stakes 100 tokens for 2 weeks, and Bob stakes 100 tokens for 4 weeks. Each week, the reward pool contains 1000 tokens. Bob's reward power will be twice that of Alice's because he chose a staking period twice as long. Thus, Bob will receive twice the rewards each week compared to Alice. Starting from the third week, Bob will receive all the rewards since he is the only staker left.
+
+9. How can I increase my reward power to receive more weekly tokens?
+To increase your reward power, you can stake more ATH and/or extend the duration of your staking period.
+
+
