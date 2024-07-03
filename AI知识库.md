@@ -2089,3 +2089,23 @@ Suppose Alice stakes 100 tokens for 2 weeks, and Bob stakes 100 tokens for 4 wee
 To increase your reward power, you can stake more ATH and/or extend the duration of your staking period.
 
 
+
+June 2024
+June 2024 marked a major milestone for Aethir, with the launch of its ATH utility token, the Aethir core network and the Aethir staking service. These advances are supported by strategic partnerships and ecosystem growth, with a focus on community benefits and decentralized cloud infrastructure.
+
+Key information
+ATH Launch: Aethir introduced its utility token, ATH, enabling decentralized governance and providing staking rewards.
+
+Mainnet Launch: Checker Nodes went live, with node operators earning maximum rewards during the onboarding period from June 12 to June 27.
+
+Staking Service: Users can stake ATH in AI and Gaming pools, earning additional rewards in the native tokens of Aethir's partners like Deverse World.
+
+Partnerships: New collaborations were formed with Cookie3, Hybrid, Moemate, PlayFi, ZKCandy and Deverse World.
+
+Aethir Edge Sales: Successfully completed the second round of Edge device sales, with the next sale scheduled for July 2.
+
+Rebranding: Introduced a new color scheme and website design to reflect growth and innovation in decentralized cloud infrastructure.
+
+For more details, see the original Aethir blog post.
+
+This Hub is created and managed by @cappai_28218
