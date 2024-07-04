@@ -2175,3 +2175,12 @@ About Aethir Edge
 Powered by Qualcomm, Aethir Edge is an enterprise-grade edge AI device integrated with Aethir’s distributed GPU cloud infrastructure to spearhead a new era of edge computing. As the first and only authorized mining device from Aethir, we combine powerful computing, exclusive earning, and decentralized access in one device — unlocking the true potential of DePIN.
 
 
+How many NVIDIA H100 GPUs are part of Aethir Network’s exclusive powerhouse fleet?
+1️⃣ 4,000
+2️⃣ 1,000
+3️⃣ 2,000
+正确答案 4️⃣ 3,000
+
+
+
+
