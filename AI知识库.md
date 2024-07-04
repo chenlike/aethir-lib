@@ -2140,4 +2140,38 @@ For more information, please refer to the official documentation.
 
 Many thanks to our Aethirian @segroegg for creating this page 💟
 
+Aethir Edge is revolutionizing the landscape of edge computing, and we’re excited to announce the opening of our third public sale round.
+
+
+Building on the success of our previous sales, this is your chance to join the decentralized cloud revolution and earn ATH rewards.
+
+Edge computing is a revolutionary technology that brings computation and data storage closer to the devices and users that need it. This means faster speeds, improved privacy, and reduced latency compared to traditional cloud computing models. Aethir Edge harnesses this power to create a decentralized cloud network where users can earn passive rewards.
+
+How it Works: Aethir Edge devices are the backbone of this network. Each device contributes computing power and storage, creating a robust and distributed infrastructure. By running an Edge device, you not only support this innovative network but also earn passive rewards in the form of ATH tokens through mining.
+
+Third Public Sale Details
+
+Mark your calendars! The third public sale of Aethir Edge devices will be held exclusively on the Edge website on July 2nd, starting at 12:00 PM UTC. The deposit campaign is now live! You can deposit USDT on the Arbitrum network to participate.
+
+The sale will have three phases:
+
+Whitelist (WL) Phase: Begins at 12:00 PM UTC on July 2nd.
+Deposit Phase: Begins at 1:00 PM UTC on July 2nd. Participants can deposit USDT on the Arbitrum network during this phase.
+Public Sale Phase: Begins at 2:00 PM UTC on July 2nd.
+To participate:
+
+Go to https://signup.myedge.io
+Have your crypto wallet ready
+If you have a referral code, use it! If not, use this one: ab646bf2b7653f6e0ebfd977f25d7978
+The official price for this sale is 999 USDT
+Each wallet can only buy 1 Edge to ensure fairness and give more participants a chance to get a device
+Want to move up the waitlist? Refer others to gain points and climb the leaderboard. You can find your unique referral code on the leaderboard page: signup.myedge.io/leaderboard
+
+
+Join the Decentralized Future
+Don’t miss this opportunity to participate in the future of computing. Sign up for the waitlist today to secure your spot in the third public sale of Aethir Edge devices: https://signup.myedge.io
+
+About Aethir Edge
+Powered by Qualcomm, Aethir Edge is an enterprise-grade edge AI device integrated with Aethir’s distributed GPU cloud infrastructure to spearhead a new era of edge computing. As the first and only authorized mining device from Aethir, we combine powerful computing, exclusive earning, and decentralized access in one device — unlocking the true potential of DePIN.
+
 
