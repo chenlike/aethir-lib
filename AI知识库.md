@@ -2109,3 +2109,35 @@ Rebranding: Introduced a new color scheme and website design to reflect growth a
 For more details, see the original Aethir blog post.
 
 This Hub is created and managed by @cappai_28218
+
+
+What is Aethir Edge?
+Aethir Edge is the very first authorized mining device integrated into a distributed cloud infrastructure.
+
+This device allows users to share their available bandwidth, computing power, and IP addresses with Aethir in exchange for rewards (currently 23% of the announced airdrop, with more rewards likely to come). Essentially, owning an Aethir Edge enables individuals to contribute to the development of the ecosystem and provide GPU computing power.
+
+Aethir Edge aligns perfectly with the team’s ideology: a decentralized infrastructure owned and governed by users, rather than centralized by tech giants.
+
+If you wish to acquire one, you can do so here. Please note that, for now, you need to be on a whitelist to have the opportunity to purchase one.
+
+A Technical Marvel
+Aethir Edge boasts elite-level computing power for data-intensive operations.
+
+Equipped with cutting-edge technology, including a Qualcomm® Snapdragon 865 chip and 12 GB of LPDDR5 memory, the device handles high-intensity workloads efficiently. Aethir Edge also features 256 GB of UFS 3.1 storage for high-speed data access, a 1000 Mbps LAN port, and WIFI6 2T2R + BT5.2 connectivity, enabling smooth parallel processing.
+
+Users can connect their Aethir Edge to the web either wirelessly or via a wired connection. Once connected, the device is managed through a dedicated mobile app, allowing users to optimize its performance and assign it specific tasks such as GPU computing.
+
+The system's flexibility allows users to adjust the amount of GPU power based on their current usage needs. The unused power is then utilized by Aethir for advanced AI tasks, machine learning, VR/AR, real-time streaming, and large-scale cloud gaming.
+
+With its advanced technology, Aethir promises a unique user experience: optimized web access with ultra-low latency and broader coverage compared to traditional clouds. Each user always receives GPU computing power from the closest Aethir network source.
+
+Additionally, the decentralized architecture ensures reliability and availability by distributing capacity among peer nodes, thus overcoming the vulnerabilities of centralized networks.
+
+Alongside Aethir's Checker nodes, Aethir Edge is a crucial component in this revolutionary decentralized cloud infrastructure.
+
+
+For more information, please refer to the official documentation.
+
+Many thanks to our Aethirian @segroegg for creating this page 💟
+
+
