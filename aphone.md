@@ -412,3 +412,86 @@ Bob will receive 9 invitation codes (Bob's number of purchased annual cards * 3)
 
 How to share Invite Codes?
 User Center  (Tab 3) → Invitation Code → Copy → Share
+
+
+
+What is Arbitrum primarily known for?
+正确答案 1. Offering Layer 2 scaling solutions for Ethereum
+2. Being a cryptocurrency exchange
+3. Mining cryptocurrencies
+4. Developing smart contracts for Bitcoin
+
+
+
+Who developed the Arbitrum blockchain network?
+
+ Binance Labs
+ Satoshi Nakamoto
+正确答案 Offchain Labs
+ Vitalik Buterin
+
+
+Which consensus mechanism does Arbitrum use?
+
+ Proof of Work
+ Delegated Proof of Stake
+正确答案 Rollup technology
+ Proof of Stake
+
+
+When was the Arbitrum mainnet launched?
+
+ 2015
+ 2019
+正确答案 2021
+ 2018
+
+
+
+How many free trial cards is APhone offering to Arbitrum dApp users?
+
+ 25,000
+ 5,000
+正确答案 10,000
+ 50,000
+
+
+What does DePIN stand for?
+
+正确答案 Decentralized Physical Infrastructure Network
+ Decentralized Public Internet Node
+ Decentralized Private Internet Network
+ Decentralized Public Infrastructure Network
+
+
+What is a key characteristic of DePIN projects?
+
+ They require permission from centralized authorities to operate
+ They only operate within a single country
+正确答案 They provide decentralized solutions for physical infrastructure needs
+ They centralize internet infrastructure for better control
+
+
+
+
+What is the name of Arbitrum’s main scaling solution?
+ Lightning Network
+ Sharding
+正确答案 Rollups
+ Plasma
+
+
+What does the Arbitrum Virtual Machine (AVM) do?
+
+ Provides decentralized storage
+ Stores user data
+ Mines new tokens
+正确答案 Executes smart contracts
+
+
+What is a key feature of Arbitrum that enhances Ethereum’s performance?
+
+正确答案 Lower gas fees
+ New consensus mechanism
+ Enhanced privacy
+ Higher mining rewards
