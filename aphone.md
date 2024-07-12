@@ -495,3 +495,72 @@ What is a key feature of Arbitrum that enhances Ethereum’s performance?
  New consensus mechanism
  Enhanced privacy
  Higher mining rewards
+
+
+
+What was the first network which APhone deployed onto and had its private testing?
+1️⃣ Ethereum mainnet
+2️⃣ Binance Smart Chain
+正确答案3️⃣ Polygon Mumbai
+4️⃣ Solana testnet
+
+
+What current problem does APhone also address within the mobile space?
+1️⃣ Limited phone cases for smartphones
+正确答案 2️⃣ Vulnerability of data on centralized servers
+3️⃣ Lack of camera features
+4️⃣ Inability to send text messages
+
+
+How does APhone contribute uniquely to the DePIN ecosystem?
+1️⃣ APhone provides tokenized rewards for solar energy production
+2️⃣ APhone integrates with traditional centralized internet providers
+正确答案 3️⃣ APhone acts as a distributed computing node within the DePIN network
+4️⃣ APhone offers exclusive access to centralized cloud services
+
+
+What does the integration between APhone and Lemonade aim to achieve?
+1️⃣ Enabling seamless access to premium smartphone features
+正确答案  2️⃣ Revolutionizing community engagement through decentralized technology
+3️⃣ Launching exclusive virtual concerts and NFT exhibitions
+4️⃣ Providing access to high-speed internet in emerging markets
+
+
+How does APhone enhance mobile Web3 accessibility through its collaboration with Roam?
+正确答案 1️⃣ By offering instant access to Roam's decentralized WiFi network through AppNest
+2️⃣ By providing exclusive discounts on APhone purchases for Roam users
+3️⃣ By integrating Roam's token rewards system into the APhone cloud
+4️⃣ By hosting Roam's APK on centralized app stores
+
+AppNest is a unique dApp store designed for…
+正确答案 1️⃣ Web3 dApps and developers to build mobile-based apps
+2️⃣ Deploying smart contracts
+3️⃣ A crowdfunding platform to finance dApps
+4️⃣ Play2Earn games only
+
+
+What gives you the most amount of keys?
+1️⃣ Unactivated APhone NFTs
+2️⃣ All APhone NFTs converted to SBTs
+3️⃣ A mix of SBTs and unactivated APhone NFTs
+正确答案 4️⃣ Activated APhone NFTs
+
+
+What is APhone's latest partnership with Power Browser about?
+1️⃣ A Powerbank for your APhone
+正确答案 2️⃣ A revolutionary Web3-focused internet browser offering rewards and enhanced privacy
+3️⃣ An AI-powered chatbot featured in the Chrome browser of APhone
+4️⃣ A power-saving feature that saves 50% battery on APhone
+
+
+What role will the $PHONE token play within the APhone ecosystem?
+1️⃣ It will fuel decentralized cloud farming on Aethir
+2️⃣ It will enable customization of app logos and names
+正确答案 3️⃣ It will grant voting rights in the upcoming APhoneDAO
+4️⃣ It will provide access to exclusive APhone community quests
+
+What is Lemonade, and how does it benefit APhone?
+1️⃣ A platform for decentralized finance
+正确答案 2️⃣ An event management tool for creators and brands
+3️⃣ A marketplace for cryptocurrency exchanges
+4️⃣ A party network for influencers
