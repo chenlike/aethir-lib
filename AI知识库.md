@@ -2259,3 +2259,106 @@ Aethir 如何通过 DePIN 增强个人和社区的能力？
 正确答案 2️⃣ 允许直接参与网络并从中受益
 3️⃣ 通过集中决策过程
 4️⃣ 增加对中介机构的依赖性
+
+
+Quais os requisitos minimo de Memória RAM, para rodar o Checker Node Client Aethir?
+1️⃣ 16GB
+2️⃣ 32GB
+正确答案 3️⃣ 64MB
+4️⃣ 64GB
+
+Qual é o número total de Aethir Edge vendidos até 2 de julho?
+1️⃣ 7000
+2️⃣ 8000
+3️⃣ 9000
+正确答案 4️⃣ 10000
+
+Quão lucrativos serão os dispositivos Aethir Edge após esgotar a oferta inicial de tokens $ATH?
+正确答案 1️⃣ A. Dispositivos Edge continuarão a gerar receita fornecendo serviços na rede Aethir.
+2️⃣ B. Dispositivos Edge não serão mais lucrativos e perderão sua utilidade.
+3️⃣ C. Dispositivos Edge continuarão a minerar tokens de projetos que colaboram com a Aethir.
+4️⃣ D. Dispositivos Edge podem ser devolvidos ao fabricante em troca de novos dispositivos para minerar tokens Aethir.
+
+
+De onde vêm as fontes de receita da Aethir Edge?
+1️⃣ A. Empresas que utilizam a infraestrutura da Aethir (por exemplo, IA, serviços de jogos,computação em nuvem)
+2️⃣ B. Fundação Aethir DAO.
+3️⃣ C. 23% da oferta reservada para dispositivos Aethir Edge foi inicialmente alocada.
+正确答案 4️⃣ D. Todas as opções acima
+
+
+Qual é a quantia total de dinheiro que Aethir arrecadou na rodada da Serie A em julho de 2023, de acordo com o anúncio?
+1️⃣ $6M
+2️⃣ $7M
+3️⃣ $8M
+正确答案 4️⃣ $9M
+
+Cite três áreas onde o DePIN pode ser aplicado.
+正确答案 1️⃣ A) Telecomunicações, Energia, Transporte
+2️⃣ B) Saúde, Educação, Agricultura
+3️⃣ C) Finanças, Imóveis, Manufatura
+4️⃣ D) Varejo, Entretenimento, Serviços de Alimentação
+
+
+O que significa DePIN?
+1️⃣ A) Rede descentralizada de infraestrutura privada
+正确答案 2️⃣ B) Rede descentralizada de infraestrutura física
+3️⃣ C) Rede distribuída de infraestrutura pública
+4️⃣ D) Rede digital de infraestrutura física
+
+
+Como o DePIN reduz custos e melhora a eficiência?
+1️⃣ A) Adicionando mais intermediários
+正确答案 2️⃣ B) Eliminando intermediários e agências centrais
+3️⃣ C) Aumentando a regulamentação
+4️⃣ D) Centralizando o processamento de dados
+
+
+Qual é a finalidade do token ATH usado no ecossistema Aethir?
+1️⃣ A) É a principal moeda para transações externas
+正确答案 2️⃣ B) Para funções utilitárias e administrativas
+3️⃣ C) É uma solução de armazenamento de dados de backup
+4️⃣ D) Para fornecer suporte técnico
+
+
+
+Como ganhar a role ATH no discord?
+正确答案 1️⃣ A) Holding de ATH
+2️⃣ B) Participar do projeto sophon
+3️⃣ C) Comprar um Edge
+4️⃣ D) Rodar um Node
+
+
+Em qual rede o token do Aethir Edge é executado?
+正确答案 1️⃣ A. Arbitrum
+2️⃣ B. ETH
+3️⃣ C. BSC
+4️⃣ D: AVAX
+
+
+Que tecnologia Aethir usa para aprimorar a experiência do usuário no jogo e no metaverso?
+1️⃣ A. Inteligência Artificial (IA)
+2️⃣ B. Internet das Coisas (IoT)
+正确答案 3️⃣ C. Tecnologia Blockchain
+4️⃣ D. Realidade Virtual (RV)
+
+
+Chỉ báo nào dưới đây không phải chỉ báo trạng thái của thiết bị Aethir Edge:
+1️⃣ Wating for Network
+2️⃣ Under Maintenance
+正确答案 3️⃣ Mining ATH
+4️⃣ Poor Network
+
+
+Trong vòng hạt giống, dự án Aethir đã kêu gọi được bao nhiêu tiền
+正确答案 1️⃣ TBD
+2️⃣ 9M $USD
+3️⃣ 10M $USD
+4️⃣ 1M $USD
+
+
+Bạn cần bao nhiêu ATH để stake cho một thiết bị Edge
+正确答案 1️⃣ 2196
+2️⃣ 2296
+3️⃣ 2396
+4️⃣ 2496
