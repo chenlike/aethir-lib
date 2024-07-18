@@ -564,3 +564,71 @@ What is Lemonade, and how does it benefit APhone?
 正确答案 2️⃣ An event management tool for creators and brands
 3️⃣ A marketplace for cryptocurrency exchanges
 4️⃣ A party network for influencers
+
+
+
+APhone部署到哪个网络并进行私有测试？
+1️⃣ 以太坊主网
+2️⃣ Binance 智能链
+正确答案 3️⃣ Polygon Mumbai
+4️⃣ Solana 测试网
+
+
+APhone与Power Browser的最新合作是什么？
+1️⃣ 為APhone而設的電量儲存裝置
+正确答案 2️⃣ 以Web3為重點的革命性互聯網瀏覽器，提供獎賞及加強私隱。
+3️⃣ APhone的Chrome瀏覽器內的人工智能聊天機器人
+4️⃣ 可為APhone省電50%的省電功能
+
+APhone的内置钱包在哪个网络上运行？
+正确答案 1️⃣ SOL
+2️⃣ ETH
+3️⃣ BSC
+4️⃣ ARB
+
+什么是 Lemonade，它如何让 APhone 受益？
+1️⃣ 分散式金融平台
+正确答案 2️⃣ 創作者和品牌的活動管理工具
+3️⃣ 加密货币交易所市场
+4️⃣ 為有影響力人士而設的派對網絡
+
+
+AppNest是一个独特的dApp商店，专为__设计。
+正确答案 1️⃣ Web3 dApps和开发人员建立基于移动的应用程序
+2️⃣ 部署智能合约
+3️⃣ dApp融資的集資平台
+4️⃣ Play2Earn 遊戲
+
+
+APhone如何通过与Roam的合作提高移动Web3的可访问性？
+正确答案 1️⃣ 通过AppNest即时访问Roam的分散式WiFi网络
+2️⃣ 为Roam用户提供购买APhone的独家折扣
+3️⃣ 将Roam的代币奖励系统整合到APhone云中
+4️⃣ 通过在集中式应用商店托管 Roam 的 APK
+
+
+APhone 如何为 DePIN 生态系统做出独特贡献？
+1️⃣ APhone 为太阳能生产提供代币化奖励
+2️⃣ APhone 与传统的集中式互联网提供商集成
+正确答案 3️⃣ APhone 在 DePIN 网络中充当分布式计算节点
+4️⃣ APhone 提供对集中式云服务的独家访问权限
+
+什么给你最多打开宝箱的钥匙？
+1️⃣ 未啟動的APhone NFTs
+2️⃣ 所有APhone NFT轉為SBT
+3️⃣ SBT和未激活的APhone NFT的组合
+正确答案 4️⃣ 激活了的 APhone
+
+
+目前，APhone 在移动领域还能解决什么问题？
+1️⃣ 智能手機保護套有限
+正确答案 2️⃣ 集中服务器上的数据的脆弱性
+3️⃣ 照相功能不足
+4️⃣ 無法發送文字訊息
+
+
+$PHONE代币将在APhone生态系统中扮演什么角色？
+1️⃣ 它将为Aethir上的去中心化云养殖提供动力
+2️⃣ 它将实现应用程序标志和名称的定制化
+正确答案 3️⃣ 它将在即将推出的APhoneDAO中授予投票权
+4️⃣ 可參與APhone社群的獨家任務
