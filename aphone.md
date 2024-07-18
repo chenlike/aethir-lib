@@ -632,3 +632,87 @@ $PHONE代币将在APhone生态系统中扮演什么角色？
 2️⃣ 它将实现应用程序标志和名称的定制化
 正确答案 3️⃣ 它将在即将推出的APhoneDAO中授予投票权
 4️⃣ 可參與APhone社群的獨家任務
+
+
+
+What ensures the high performance and reliability of Aphone?
+1️⃣ Simple hardware
+正确答案 2️⃣ Advanced technical foundations
+3️⃣ Low battery life
+4️⃣ Outdated software
+
+
+What is a unique feature of Aphone’s interface?
+1️⃣ Limited to one language
+正确答案 2️⃣ Customizable interfaces
+3️⃣ Fixed, non-changeable layouts
+4️⃣ Only black and white themes
+
+
+What is emphasized in Aphone's design?
+1️⃣ Basic user interface
+2️⃣ High cost
+3️⃣ Bulky and heavy design
+正确答案 4️⃣ Elegance and functionality
+
+
+How does Aphone ensure the longevity of its design?
+1️⃣ Limiting the device's capabilities
+2️⃣ Using low-quality materials
+3️⃣ Offering minimal functionality
+正确答案 4️⃣ Employing durable materials and ergonomic design
+
+What type of content can you create with Aphone’s high-resolution camera system?
+1️⃣ Text documents
+2️⃣ Only low-quality videos
+正确答案 3️⃣ High-quality photos and videos
+4️⃣ Spreadsheets
+
+
+What is the primary purpose of the Aphone ecosystem?
+1️⃣ To act as a social media network
+2️⃣ To offer a gaming platform
+正确答案 3️⃣ To provide a mobile solution with integrated smart device connectivity
+4️⃣ To function as a virtual reality device
+
+
+
+What does Aphone's AI-driven assistance help with?
+正确答案 1️⃣ Enhancing user experience
+2️⃣ Playing music
+3️⃣ Making phone calls only
+4️⃣ Charging the battery
+
+
+
+What is one of the primary benefits of using the $Phone token?
+1️⃣ High transaction fees
+2️⃣ Lack of security
+正确答案 3️⃣ Smooth and secure financial operations within the ecosystem
+4️⃣ Limited availability
+
+
+What advanced feature does Aphone's camera system offer?
+正确答案 1️⃣ High-resolution cameras
+2️⃣ Standard video recording
+3️⃣ Basic photo editing tools
+4️⃣ Low-resolution images
+
+Which token is integral to the Aphone ecosystem?
+正确答案 1️⃣ $Phone
+2️⃣ Dogecoin
+3️⃣ Bitcoin
+4️⃣ Ethereum
+
+
+Which area is NOT a use case of Aphone?
+1️⃣ Productivity
+2️⃣ Communication
+3️⃣ Entertainment
+正确答案 4️⃣ Cooking
+
+What aspect of Aphone supports dynamic capabilities?
+1️⃣ Basic software
+正确答案 2️⃣ State-of-the-art innovations
+3️⃣ Lack of connectivity
+4️⃣ Weak technical foundation
