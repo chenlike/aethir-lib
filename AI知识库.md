@@ -2439,3 +2439,103 @@ Aethir 的边缘计算能力使得 AI 模型能够在更接近数据生成来源
 
 截至目前，Aethir 的 GPU 网络和云解决方案已可实现每年超过 3600 万美元的收入。这些收入将按周转换成 ATH，来在网络时购买算力。这也意味着协议月收入将超过了其他 DePIN 项目的总和。
 
+
+Apakah yang ditawarkan oleh Aethir Cloud?
+1️⃣ Email services
+2️⃣ Online shopping platform
+正确答案 3️⃣ High-powered computing for gaming and AI applications
+4️⃣ Social networking
+
+
+Apakah yang ada dalam Aethir Earth?
+正确答案 1️⃣ Direct GPU computing power from provider servers
+2️⃣ Virtualization services
+3️⃣ Data storage solutions
+4️⃣ Social media integration
+
+
+Manfaat apa yang tidak ada dalam Aethir Earth?
+1️⃣ Reliability through decentralized networks
+2️⃣ High performance for demanding workloads
+3️⃣ Ability to increase computing power
+正确答案 4️⃣ Free internet access
+
+
+Apa fokus utama Aethir Atmosphere?
+1️⃣ Online shopping
+2️⃣ Social media management
+正确答案 3️⃣ Cloud-based game rendering
+4️⃣ Email services
+
+Bagaimana Aethir Atmosphere membuat permainan kelas atas dapat diakses oleh lebih ramai orang?
+1️⃣ By offering game tutorials
+2️⃣ By providing free games
+3️⃣ By reducing game prices
+正确答案 4️⃣ By offloading rendering tasks to the cloud
+
+
+Teknologi apa yang digunakan oleh Aethir Cloud untuk memastikan transaksi selamat dan transparan?
+正确答案 1️⃣ Blockchain technology
+2️⃣ Traditional servers
+3️⃣ Quantum computing
+4️⃣ Artificial intelligence
+
+Apa peranan token ATH dalam pengurusan Aethir?
+1️⃣ Enables online shopping
+2️⃣ Provides discounts for services
+正确答案 3️⃣ Allows token holders to propose, discuss, and vote on platform changes
+4️⃣ Used for staking rewards
+
+
+Apakah ciri unik APhone berkaitan dengan Web3?
+1️⃣ Built-in gaming console
+2️⃣ Social media platform
+正确答案 3️⃣ Customizable Web3 app store
+4️⃣ Traditional app store
+
+
+Bagaimana teknologi awan terdesentralisasi APhone meningkatkan privasi pengguna?
+1️⃣ By encrypting emails
+正确答案 2️⃣ By eliminating dependence on traditional centralized models
+3️⃣ By providing free apps
+4️⃣ By offering free VPN services
+
+
+Apakah yang diperbaiki oleh GPU berkualiti tinggi APhone?
+正确答案 1️⃣ Graphic performance for Web3 applications
+2️⃣ Cloud storage capacity
+3️⃣ Email management
+4️⃣ Social media sharing
+
+Apakah ciri kegunaan akaun APhone?
+1️⃣ Watching movies
+2️⃣ Sending emails
+3️⃣ Online shopping
+正确答案 4️⃣ Participation in airdrop farming
+
+
+Bagaimana Aethir Edge meningkatkan pengalaman VR/AR?
+1️⃣ By integrating social media features
+正确答案 2️⃣ By reducing latency and improving graphic rendering
+3️⃣ By offering VR/AR tutorials
+4️⃣ By providing free VR/AR headsets
+
+
+Apakah manfaat utama Aethir Edge untuk real-time streaming?
+1️⃣ Free streaming services
+2️⃣ Unlimited streaming time
+正确答案 3️⃣ Optimized throughput and parallel processing for minimal buffering
+4️⃣ Enhanced social media integration
+
+
+Bagaimana Aethir Edge menyokong aplikasi AI?
+1️⃣ By offering free AI tools
+2️⃣ By integrating with social media
+3️⃣ By providing free storage
+正确答案 4️⃣ By processing data directly at the edge with low latency
+
+Apakah kemampuan mining yang ditawarkan oleh Aethir Edge?
+1️⃣ Social media data mining
+2️⃣ Ethereum mining
+正确答案 3️⃣ Mining native Aethir tokens (ATH)
+4️⃣ Bitcoin mining
