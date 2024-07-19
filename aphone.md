@@ -716,3 +716,70 @@ What aspect of Aphone supports dynamic capabilities?
 正确答案 2️⃣ State-of-the-art innovations
 3️⃣ Lack of connectivity
 4️⃣ Weak technical foundation
+
+
+What is the primary function of a blockchain?
+1️⃣ To provide internet connectivity
+2️⃣ To create virtual worlds
+正确答案 3️⃣ To record and verify transactions
+4️⃣ To host websites
+
+
+What does DeFi stand for?
+正确答案 1️⃣ Decentralized Finance
+2️⃣ Digital Finance
+3️⃣ Distributed Finance
+4️⃣ Dual Finance
+
+Which of the following is a popular hardware wallet?
+1️⃣ Coinbase
+2️⃣ MetaMask
+正确答案 3️⃣ Ledger Nano S
+4️⃣ Trust Wallet
+
+What is the consensus algorithm used by Bitcoin?
+1️⃣ Proof of Stake
+正确答案 2️⃣ Proof of Work
+3️⃣ Delegated Proof of Stake
+4️⃣ Practical Byzantine Fault Tolerance
+
+
+Which term describes a non-fungible token?
+1️⃣ Tokenized commodity
+2️⃣ Interchangeable asset
+正确答案 3️⃣ Unique digital asset
+4️⃣ Digital currency
+
+
+Which of the following is NOT a feature of Web3?
+正确答案 1️⃣ Centralized control
+2️⃣ Decentralized applications (dApps)
+3️⃣ Blockchain technology
+4️⃣ Cryptographic security
+
+
+What does a crypto wallet do?
+1️⃣ Stores physical cash
+2️⃣ Mines cryptocurrencies
+正确答案  3️⃣ Stores public and private keys
+4️⃣ Manages internet bandwidth
+
+
+Which blockchain network is known for its fast transaction speeds and low fees?
+1️⃣ Bitcoin
+2️⃣ Ethereum
+正确答案 3️⃣ Solana
+4️⃣ Dogecoin
+
+
+What is a DAO in the context of blockchain?
+1️⃣ Digital Autonomous Organization
+正确答案 2️⃣ Decentralized Autonomous Organization
+3️⃣ Distributed Autonomous Operation
+4️⃣ Digital Asset Operation
+
+What is the primary purpose of a smart contract?
+1️⃣ To create cryptocurrencies
+正确答案 2️⃣ To facilitate, verify, or enforce the negotiation of a contract
+3️⃣ To mine Bitcoin
+4️⃣ To store digital identities
