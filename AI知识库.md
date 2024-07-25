@@ -2627,3 +2627,63 @@ Aethir 整合人工智能和 DePIN 的目标是什么？
  它们减少了对人工干预的需求
  它们简化了软件开发过程
 正确答案: 它们提供更快、更高效的数据处理
+
+
+What are Aethir partners who users delegate nodes to for set up, deployment and management called?
+🇦 - Cloud-as-a-Service (CaaS) Providers
+
+正确答案 🇧 - Node-as-a-Service (NaaS) Providers
+
+🇨 - Keep-as-a-Service (KaaS) Providers
+
+🇩 - Stake-as-a-Service (SaaS) Providers
+
+What date did Aethir Node Mainnet launch?
+🇦 - June 10 2024
+
+🇧 - June 11 2024
+
+正确答案 🇨 - June 12 2024
+
+🇩 - June 13 2024
+
+
+
+What enterprise-grade computing device is powered by Aethir's distributed GPU cloud infrastructure and Qualcomm?
+🇦 - AethirNode
+
+🇧 - AethirCloud
+
+🇨 - AethirPower
+
+正确答案 🇩 - AethirEdge
+
+
+What platform did Aethir recently launch a Liquid Staking program on?
+🇦 - Zero1Labs
+
+正确答案 🇧 - Sophon
+
+🇨 - dFusion
+
+🇩 - NodeOps
+
+
+What other benefits to Aethir Node holders get apart from ATH tokens?
+🇦 - RainDrop
+
+🇧 - MassDrop
+
+🇨 - CommunityDrop
+
+正确答案 🇩 - EcoDrop
+
+
+What worldwide payment solution did Aethir recently partner with to showcase an innovative combination of Pay-As-You-Go and cloud compute infrastructure?
+正确答案 🇦 - Xsolla
+
+🇧 - Aylab
+
+🇨 - Bytechain
+
+🇩 - Oasis
