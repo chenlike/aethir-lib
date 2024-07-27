@@ -871,3 +871,21 @@ Aethir 整合人工智能和 DePIN 的目标是什么？
  它们减少了对人工干预的需求
  它们简化了软件开发过程
 正确答案: 它们提供更快、更高效的数据处理
+
+
+
+
+
+
+Aethir和GameSwift什么时候正式合作的？
+正确答案 1️⃣ ngày 12 tháng 7 năm 2024
+2️⃣ ngày 12 tháng 6 năm 2024
+3️⃣ ngày 12 tháng 7 năm 2023
+4️⃣ ngày 12 tháng 6 năm 2023
+
+
+在以下项目中，哪些项目不属于 Aethir 生态系统？
+1️⃣ Mocaverse
+2️⃣ The Fishverse
+3️⃣ WarEden
+正确答案 4️⃣ Pixelverse
