@@ -889,3 +889,65 @@ Aethir和GameSwift什么时候正式合作的？
 2️⃣ The Fishverse
 3️⃣ WarEden
 正确答案 4️⃣ Pixelverse
+
+
+Which company introduced the first lithium-ion battery for smartphones?
+1️⃣ Samsung
+正确答案 2️⃣ Sony
+3️⃣ Apple
+4️⃣ Nokia
+
+What is the typical voltage of a lithium-ion smartphone battery?
+1️⃣ 1.2V
+2️⃣ 5.0V
+正确答案 3️⃣ 3.7V
+4️⃣ 9.0V
+
+What does the acronym Li-ion stand for?
+1️⃣ Light isotropic oxygen nitrogen
+正确答案 2️⃣ Lithium ion
+3️⃣ Low internal operation network
+4️⃣ Lithium-ion nitrate
+
+What is the approximate lifespan of a typical lithium-ion smartphone battery in charge cycles?
+1️⃣ 100 cycles
+2️⃣ 300 cycles
+正确答案 3️⃣ 500 cycles
+4️⃣ 1000 cycles
+
+
+What is a common challenge faced during the recycling of lithium-ion batteries?
+1️⃣ Low demand for recycled materials
+2️⃣ High cost of recycling
+3️⃣ Safety hazards
+正确答案 4️⃣ All of the above
+
+What happens when the battery of your physical device runs out while you have APhone devices running?
+1️⃣ APhones also shut down
+2️⃣ APhones will go into sleep mode until you charge the physical device
+正确答案 3️⃣ APhones remain up and running and are accessible through another device
+4️⃣ APhones will not collect keys until you charge your battery
+
+What was the first commercially available smartphone with a non-removable lithium-ion battery?
+正确答案 1️⃣ iPhone 2G
+2️⃣ Nokia N95
+3️⃣ BlackBerry Bold 9000
+4️⃣ HTC Dream
+
+Which characteristic of lithium-ion batteries contributes to their popularity in portable devices?
+1️⃣ High self-discharge rate
+2️⃣ Low operating voltage
+正确答案 3️⃣ Long cycle life
+4️⃣ Limited capacity
+
+Which factor significantly affects the degradation of lithium-ion battery capacity over time?
+1️⃣ Operating temperature
+2️⃣ Charging voltage
+3️⃣ Discharge rate
+正确答案 4️⃣ All of the above
+
+How often do you need to charge your APhone devices?
+1️⃣ Once every 2 days circa
+2️⃣ You will be notified when it's time to charge; it can take a few weeks
+3️⃣ APhone devices cannot be charged. When the battery runs out, you will need to acquire a new APhone pass
+正确答案 4️⃣ Never. APhone devices don't need to be charged, they don't have a battery
